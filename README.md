@@ -2,7 +2,7 @@
 
 This repository contains the architecture diagram, phased implementation roadmap, and strategic rationale designed for **Elevate Learning** as part of the **Forage Solutions Architecture Virtual Experience**.
 
-## 📌 Project Overview
+##  Project Overview
 Elevate Learning needed an architectural overhaul to prepare for an upcoming professional development program launch. The core objective was to transform their single-instance infrastructure into a highly available, scalable, secure, and cost-efficient cloud system within a **3-month timeline** and limited budget.
 
 ##  Proposed Architecture
